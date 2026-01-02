@@ -13,7 +13,7 @@ Each certificate PDF reflects **skills Iâ€™ve learned and validated**, and theyâ
 | **Basics of Python Course By Google** | Introductory Python fundamentals from Google. |
 | **DSA Alpha6 / DSA Basic** | Data Structures & Algorithms foundations. |
 | **Data Visualisation** | Basics of visualization techniques and tools. |
-| **EBEON Training Certificate** | Full Stack Course by Edubridge  |
+| **EBEON Training Certificate** | Full Stack Course from Edubridge  |
 | **Golang Basic Certificate** | Fundamentals of the Go programming language. |
 | **SQL Basic Certificate** | SQL fundamentals for database querying. |
 
